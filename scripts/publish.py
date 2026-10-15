@@ -26,8 +26,13 @@ def validate(d):
                 for c in lu:
                     if not isinstance(c.get("name"), str) or not isinstance(c.get("eidolon"), int) or not isinstance(c.get("superimposition"), int):
                         errs.append(f"targets[{i}].records[{j}] 角色字段异常")
+                    lid = c.get("lightcone_id")
+                    if lid is not None and (isinstance(lid, bool) or not isinstance(lid, int) or not 20000 <= lid <= 29999):
+                        errs.append(f"targets[{i}].records[{j}] lightcone_id 必须是 StarRailRes 光锥 id（2xxxx 整数）或 null")
                     if c.get("lightcone") is not None and not isinstance(c.get("lightcone"), str):
                         errs.append(f"targets[{i}].records[{j}] lightcone 必须是字符串或 null")
+                    if c.get("lightcone") and lid is None:
+                        errs.append(f"targets[{i}].records[{j}] 有 lightcone 名字却没有 lightcone_id")
             for k in ("ltd", "std", "date"):
                 if k not in r: errs.append(f"targets[{i}].records[{j}] 缺少 {k}")
     body = json.dumps(d, ensure_ascii=False)
