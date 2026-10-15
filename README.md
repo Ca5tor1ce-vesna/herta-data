@@ -29,7 +29,7 @@
 - `total_runs` 该分类原始记录总数
 - `records[]`：
   - `group` 阵容组名，`runs_in_group` 该组记录数
-  - `lineup[]`：`name` 角色，`eidolon` 星魂（E0–E6），`superimposition` 光锥叠影（S1–S5）
+  - `lineup[]`：`name` 角色，`eidolon` 星魂（E0–E6），`superimposition` 光锥叠影（S1–S5），`lightcone` 光锥中文名（可选，可能为 null）
   - `tag` 分类标签，`cycle` 轮次，`score` 积分（虚构/末日），`av` 行动值（如有）
   - `ltd` / `std` 限定 / 常驻五星数量
   - `date` 记录时间

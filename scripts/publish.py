@@ -26,6 +26,8 @@ def validate(d):
                 for c in lu:
                     if not isinstance(c.get("name"), str) or not isinstance(c.get("eidolon"), int) or not isinstance(c.get("superimposition"), int):
                         errs.append(f"targets[{i}].records[{j}] 角色字段异常")
+                    if c.get("lightcone") is not None and not isinstance(c.get("lightcone"), str):
+                        errs.append(f"targets[{i}].records[{j}] lightcone 必须是字符串或 null")
             for k in ("ltd", "std", "date"):
                 if k not in r: errs.append(f"targets[{i}].records[{j}] 缺少 {k}")
     body = json.dumps(d, ensure_ascii=False)
