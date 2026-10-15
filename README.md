@@ -1,6 +1,6 @@
 # herta-data
 
-崩坏：星穹铁道 深渊类玩法（混沌回忆 / 虚构叙事 / 末日幻影 / 异相仲裁）低配通关记录数据，供 [game-toolbox](https://github.com/Ca5tor1ce-vesna/game-toolbox) 的「低配记录」模块读取。
+崩坏：星穹铁道 深渊类玩法（混沌回忆 / 虚构叙事 / 末日幻影 / 异相仲裁）低配通关记录数据，供 [game-toolbox](https://github.com/Ca5tor1ce-vesna/game-toolbox) 的「角色顶分」模块读取。
 
 - 数据来自 **The Herta**（https://theherta.com ），每天 **12:00（北京时间）** 更新。
 - 只保留阵容与配置信息，不包含上传者账号、视频链接。
