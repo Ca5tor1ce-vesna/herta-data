@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-10-20 14:24 UTC+8",
+ "collected_at": "2026-10-21 12:15 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -8,7 +8,7 @@
    "season": "4.6",
    "stage": "始作画者，无量塔绘世",
    "category": "0轮次",
-   "total_runs": 128,
+   "total_runs": 129,
    "records": [
     {
      "group": "砂金•戏浪",
@@ -597,7 +597,7 @@
     },
     {
      "group": "阿格莱雅",
-     "runs_in_group": 2,
+     "runs_in_group": 3,
      "lineup": [
       {
        "name": "阿格莱雅",
@@ -2125,7 +2125,7 @@
    "season": "4.6",
    "stage": "赞达尔",
    "category": "0轮次",
-   "total_runs": 195,
+   "total_runs": 198,
    "records": [
     {
      "group": "绯英",
@@ -2441,7 +2441,7 @@
     },
     {
      "group": "昔涟",
-     "runs_in_group": 6,
+     "runs_in_group": 7,
      "lineup": [
       {
        "name": "昔涟",
@@ -2636,7 +2636,7 @@
     },
     {
      "group": "飞霄",
-     "runs_in_group": 7,
+     "runs_in_group": 8,
      "lineup": [
       {
        "name": "飞霄",
@@ -2675,7 +2675,7 @@
     },
     {
      "group": "遐蝶",
-     "runs_in_group": 13,
+     "runs_in_group": 14,
      "lineup": [
       {
        "name": "遐蝶",
@@ -3382,11 +3382,11 @@
    "season": "4.6",
    "stage": "帕姆王",
    "category": "满星",
-   "total_runs": 3,
+   "total_runs": 4,
    "records": [
     {
      "group": "银狼LV.999",
-     "runs_in_group": 2,
+     "runs_in_group": 3,
      "lineup": [
       {
        "name": "银狼LV.999",
@@ -3467,9 +3467,96 @@
   {
    "mode": "虚构叙事",
    "season": "4.6",
+   "stage": "至黑之剑，盗火行者",
+   "category": "满星",
+   "total_runs": 2,
+   "records": [
+    {
+     "group": "昔涟",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "昔涟",
+       "eidolon": 0,
+       "lightcone_id": 24005,
+       "lightcone": "记忆永不落幕",
+       "superimposition": 5
+      },
+      {
+       "name": "缇宝",
+       "eidolon": 0,
+       "lightcone_id": 21018,
+       "lightcone": "舞！舞！舞！",
+       "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 0,
+       "lightcone_id": 21054,
+       "lightcone": "故事的下一页",
+       "superimposition": 5
+      },
+      {
+       "name": "开拓者 (记忆)",
+       "eidolon": 6,
+       "lightcone_id": 22006,
+       "lightcone": "飞向粉色的明天",
+       "superimposition": 5
+      }
+     ],
+     "tag": "满星",
+     "ltd": 3,
+     "std": 0,
+     "date": "2026-10-21 01:58",
+     "cycle": "3"
+    },
+    {
+     "group": "DoT",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "海瑟音",
+       "eidolon": 0,
+       "lightcone_id": 21008,
+       "lightcone": "猎物的视线",
+       "superimposition": 5
+      },
+      {
+       "name": "卡芙卡",
+       "eidolon": 0,
+       "lightcone_id": 22000,
+       "lightcone": "新手任务开始前",
+       "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 0,
+       "lightcone_id": 21054,
+       "lightcone": "故事的下一页",
+       "superimposition": 5
+      },
+      {
+       "name": "丹恒•腾荒",
+       "eidolon": 0,
+       "lightcone_id": 23051,
+       "lightcone": "纵然山河万程",
+       "superimposition": 1
+      }
+     ],
+     "tag": "满星",
+     "ltd": 5,
+     "std": 0,
+     "date": "2026-10-20 10:23",
+     "cycle": "4"
+    }
+   ]
+  },
+  {
+   "mode": "虚构叙事",
+   "season": "4.6",
    "stage": "银枝",
    "category": "满星",
-   "total_runs": 5,
+   "total_runs": 6,
    "records": [
     {
      "group": "DoT",
@@ -3509,6 +3596,45 @@
      "std": 0,
      "date": "2026-10-19 19:10",
      "cycle": "3"
+    },
+    {
+     "group": "长夜月",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "长夜月",
+       "eidolon": 0,
+       "lightcone_id": 23049,
+       "lightcone": "致长夜的星光",
+       "superimposition": 1
+      },
+      {
+       "name": "风堇",
+       "eidolon": 0,
+       "lightcone_id": 23042,
+       "lightcone": "愿虹光永驻天空",
+       "superimposition": 1
+      },
+      {
+       "name": "缇宝",
+       "eidolon": 0,
+       "lightcone_id": 21018,
+       "lightcone": "舞！舞！舞！",
+       "superimposition": 5
+      },
+      {
+       "name": "开拓者 (记忆)",
+       "eidolon": 6,
+       "lightcone_id": 22006,
+       "lightcone": "飞向粉色的明天",
+       "superimposition": 5
+      }
+     ],
+     "tag": "满星",
+     "ltd": 5,
+     "std": 0,
+     "date": "2026-10-20 10:23",
+     "cycle": "4"
     },
     {
      "group": "绯英",
@@ -6253,7 +6379,7 @@
    "season": "4.6",
    "stage": "[K3] 示死祸源",
    "category": "通关",
-   "total_runs": 211,
+   "total_runs": 212,
    "records": [
     {
      "group": "姬子•启行",
@@ -6920,7 +7046,7 @@
     },
     {
      "group": "希儿",
-     "runs_in_group": 4,
+     "runs_in_group": 5,
      "lineup": [
       {
        "name": "希儿",
