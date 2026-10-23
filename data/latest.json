@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-10-22 13:08 UTC+8",
+ "collected_at": "2026-10-23 12:12 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -1070,7 +1070,7 @@
    "season": "4.6",
    "stage": "火花大会@Official",
    "category": "0轮次",
-   "total_runs": 211,
+   "total_runs": 213,
    "records": [
     {
      "group": "砂金•戏浪",
@@ -1123,13 +1123,6 @@
        "superimposition": 5
       },
       {
-       "name": "爻光",
-       "eidolon": 0,
-       "lightcone_id": 21064,
-       "lightcone": "菇菇嘎嘎历险记",
-       "superimposition": 5
-      },
-      {
        "name": "停云",
        "eidolon": 6,
        "lightcone_id": 21046,
@@ -1141,6 +1134,13 @@
        "eidolon": 6,
        "lightcone_id": 24006,
        "lightcone": "欢愉满溢祝福",
+       "superimposition": 5
+      },
+      {
+       "name": "爻光",
+       "eidolon": 0,
+       "lightcone_id": 21064,
+       "lightcone": "菇菇嘎嘎历险记",
        "superimposition": 5
       }
      ],
@@ -1230,20 +1230,13 @@
     },
     {
      "group": "姬子•启行",
-     "runs_in_group": 18,
+     "runs_in_group": 19,
      "lineup": [
       {
        "name": "姬子•启行",
        "eidolon": 0,
        "lightcone_id": 21034,
        "lightcone": "今日亦是和平的一日",
-       "superimposition": 5
-      },
-      {
-       "name": "知更鸟•晴歌",
-       "eidolon": 0,
-       "lightcone_id": 24005,
-       "lightcone": "记忆永不落幕",
        "superimposition": 5
       },
       {
@@ -1259,6 +1252,13 @@
        "lightcone_id": 21047,
        "lightcone": "黑夜如影随行",
        "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 0,
+       "lightcone_id": 24005,
+       "lightcone": "记忆永不落幕",
+       "superimposition": 5
       }
      ],
      "tag": "0轮次",
@@ -1269,7 +1269,7 @@
     },
     {
      "group": "Archer",
-     "runs_in_group": 9,
+     "runs_in_group": 10,
      "lineup": [
       {
        "name": "Archer",
@@ -1474,17 +1474,17 @@
        "superimposition": 5
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 2,
-       "lightcone_id": 21054,
-       "lightcone": "故事的下一页",
-       "superimposition": 5
-      },
-      {
        "name": "昔涟",
        "eidolon": 0,
        "lightcone_id": 21050,
        "lightcone": "胜利只在朝夕间",
+       "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 2,
+       "lightcone_id": 21054,
+       "lightcone": "故事的下一页",
        "superimposition": 5
       },
       {
@@ -1513,6 +1513,13 @@
        "superimposition": 5
       },
       {
+       "name": "开拓者 (记忆)",
+       "eidolon": 6,
+       "lightcone_id": 22006,
+       "lightcone": "飞向粉色的明天",
+       "superimposition": 5
+      },
+      {
        "name": "知更鸟•晴歌",
        "eidolon": 2,
        "lightcone_id": 21054,
@@ -1525,13 +1532,6 @@
        "lightcone_id": 21015,
        "lightcone": "决心如汗珠般闪耀",
        "superimposition": 5
-      },
-      {
-       "name": "开拓者 (记忆)",
-       "eidolon": 6,
-       "lightcone_id": 22006,
-       "lightcone": "飞向粉色的明天",
-       "superimposition": 5
       }
      ],
      "tag": "0轮次",
@@ -1541,7 +1541,7 @@
      "cycle": "0"
     },
     {
-     "group": "Trailblazer",
+     "group": "开拓者 (欢愉)",
      "runs_in_group": 2,
      "lineup": [
       {
@@ -1550,13 +1550,6 @@
        "lightcone_id": 23058,
        "lightcone": "邂逅于下一个花季",
        "superimposition": 1
-      },
-      {
-       "name": "缇宝",
-       "eidolon": 1,
-       "lightcone_id": 21018,
-       "lightcone": "舞！舞！舞！",
-       "superimposition": 5
       },
       {
        "name": "爻光",
@@ -1570,6 +1563,13 @@
        "eidolon": 0,
        "lightcone_id": 24005,
        "lightcone": "记忆永不落幕",
+       "superimposition": 5
+      },
+      {
+       "name": "缇宝",
+       "eidolon": 1,
+       "lightcone_id": 21018,
+       "lightcone": "舞！舞！舞！",
        "superimposition": 5
       }
      ],
@@ -1669,13 +1669,6 @@
        "superimposition": 5
       },
       {
-       "name": "千冶•刃",
-       "eidolon": 2,
-       "lightcone_id": 22000,
-       "lightcone": "新手任务开始前",
-       "superimposition": 5
-      },
-      {
        "name": "不死途",
        "eidolon": 0,
        "lightcone_id": 24001,
@@ -1688,6 +1681,13 @@
        "lightcone_id": 21008,
        "lightcone": "猎物的视线",
        "superimposition": 5
+      },
+      {
+       "name": "千冶•刃",
+       "eidolon": 2,
+       "lightcone_id": 22000,
+       "lightcone": "新手任务开始前",
+       "superimposition": 5
       }
      ],
      "tag": "0轮次",
@@ -1697,8 +1697,8 @@
      "cycle": "0"
     },
     {
-     "group": "DoT",
-     "runs_in_group": 7,
+     "group": "黑天鹅",
+     "runs_in_group": 1,
      "lineup": [
       {
        "name": "黑天鹅",
@@ -1733,6 +1733,45 @@
      "ltd": 6,
      "std": 0,
      "date": "2026-10-08 00:12",
+     "cycle": "0"
+    },
+    {
+     "group": "海瑟音",
+     "runs_in_group": 6,
+     "lineup": [
+      {
+       "name": "海瑟音",
+       "eidolon": 1,
+       "lightcone_id": 21008,
+       "lightcone": "猎物的视线",
+       "superimposition": 5
+      },
+      {
+       "name": "黑天鹅",
+       "eidolon": 1,
+       "lightcone_id": 21008,
+       "lightcone": "猎物的视线",
+       "superimposition": 5
+      },
+      {
+       "name": "卡芙卡",
+       "eidolon": 0,
+       "lightcone_id": 22000,
+       "lightcone": "新手任务开始前",
+       "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 0,
+       "lightcone_id": 21054,
+       "lightcone": "故事的下一页",
+       "superimposition": 5
+      }
+     ],
+     "tag": "0轮次",
+     "ltd": 6,
+     "std": 0,
+     "date": "2026-10-16 00:11",
      "cycle": "0"
     },
     {
@@ -1825,17 +1864,17 @@
        "superimposition": 1
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 1,
-       "lightcone_id": 24005,
-       "lightcone": "记忆永不落幕",
-       "superimposition": 5
-      },
-      {
        "name": "昔涟",
        "eidolon": 0,
        "lightcone_id": 21050,
        "lightcone": "胜利只在朝夕间",
+       "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 1,
+       "lightcone_id": 24005,
+       "lightcone": "记忆永不落幕",
        "superimposition": 5
       },
       {
@@ -1864,10 +1903,10 @@
        "superimposition": 5
       },
       {
-       "name": "风堇",
-       "eidolon": 1,
-       "lightcone_id": 21054,
-       "lightcone": "故事的下一页",
+       "name": "开拓者 (记忆)",
+       "eidolon": 6,
+       "lightcone_id": 22006,
+       "lightcone": "飞向粉色的明天",
        "superimposition": 5
       },
       {
@@ -1878,10 +1917,10 @@
        "superimposition": 5
       },
       {
-       "name": "开拓者 (记忆)",
-       "eidolon": 6,
-       "lightcone_id": 22006,
-       "lightcone": "飞向粉色的明天",
+       "name": "风堇",
+       "eidolon": 1,
+       "lightcone_id": 21054,
+       "lightcone": "故事的下一页",
        "superimposition": 5
       }
      ],
@@ -1935,13 +1974,6 @@
        "superimposition": 5
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 2,
-       "lightcone_id": 21054,
-       "lightcone": "故事的下一页",
-       "superimposition": 5
-      },
-      {
        "name": "姬子•启行",
        "eidolon": 0,
        "lightcone_id": 21040,
@@ -1953,6 +1985,13 @@
        "eidolon": 4,
        "lightcone_id": 21015,
        "lightcone": "决心如汗珠般闪耀",
+       "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 2,
+       "lightcone_id": 21054,
+       "lightcone": "故事的下一页",
        "superimposition": 5
       }
      ],
@@ -3460,7 +3499,7 @@
    "season": "4.6",
    "stage": "帕姆王",
    "category": "满星",
-   "total_runs": 9,
+   "total_runs": 10,
    "records": [
     {
      "group": "银狼LV.999",
@@ -3481,17 +3520,17 @@
        "superimposition": 5
       },
       {
-       "name": "真珠",
-       "eidolon": 0,
-       "lightcone_id": 21064,
-       "lightcone": "菇菇嘎嘎历险记",
-       "superimposition": 5
-      },
-      {
        "name": "开拓者 (欢愉)",
        "eidolon": 6,
        "lightcone_id": 24006,
        "lightcone": "欢愉满溢祝福",
+       "superimposition": 5
+      },
+      {
+       "name": "真珠",
+       "eidolon": 0,
+       "lightcone_id": 21064,
+       "lightcone": "菇菇嘎嘎历险记",
        "superimposition": 5
       }
      ],
@@ -3520,17 +3559,17 @@
        "superimposition": 5
       },
       {
-       "name": "灵砂",
-       "eidolon": 0,
-       "lightcone_id": 21007,
-       "lightcone": "同一种心情",
-       "superimposition": 5
-      },
-      {
        "name": "开拓者 (记忆)",
        "eidolon": 6,
        "lightcone_id": 24005,
        "lightcone": "记忆永不落幕",
+       "superimposition": 5
+      },
+      {
+       "name": "灵砂",
+       "eidolon": 0,
+       "lightcone_id": 21007,
+       "lightcone": "同一种心情",
        "superimposition": 5
       }
      ],
@@ -3552,17 +3591,17 @@
        "superimposition": 2
       },
       {
-       "name": "花火",
-       "eidolon": 0,
-       "lightcone_id": 21018,
-       "lightcone": "舞！舞！舞！",
-       "superimposition": 5
-      },
-      {
        "name": "瓦尔特",
        "eidolon": 2,
        "lightcone_id": 21015,
        "lightcone": "决心如汗珠般闪耀",
+       "superimposition": 5
+      },
+      {
+       "name": "花火",
+       "eidolon": 0,
+       "lightcone_id": 21018,
+       "lightcone": "舞！舞！舞！",
        "superimposition": 5
       },
       {
@@ -3637,18 +3676,18 @@
        "superimposition": 5
       },
       {
-       "name": "不死途",
-       "eidolon": 0,
-       "lightcone_id": 23056,
-       "lightcone": "一场谎言的终幕",
-       "superimposition": 1
-      },
-      {
        "name": "瓦尔特",
        "eidolon": 5,
        "lightcone_id": 21015,
        "lightcone": "决心如汗珠般闪耀",
        "superimposition": 5
+      },
+      {
+       "name": "不死途",
+       "eidolon": 0,
+       "lightcone_id": 23056,
+       "lightcone": "一场谎言的终幕",
+       "superimposition": 1
       }
      ],
      "tag": "满星",
@@ -3656,6 +3695,45 @@
      "std": 6,
      "date": "2026-10-19 16:21",
      "cycle": "1"
+    },
+    {
+     "group": "流萤",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "流萤",
+       "eidolon": 3,
+       "lightcone_id": 24000,
+       "lightcone": "记一位星神的陨落",
+       "superimposition": 5
+      },
+      {
+       "name": "大丽花",
+       "eidolon": 1,
+       "lightcone_id": 23043,
+       "lightcone": "谎言在风中飘扬",
+       "superimposition": 1
+      },
+      {
+       "name": "阮•梅",
+       "eidolon": 1,
+       "lightcone_id": 21056,
+       "lightcone": "追逐风的时候",
+       "superimposition": 4
+      },
+      {
+       "name": "开拓者 (同谐)",
+       "eidolon": 6,
+       "lightcone_id": 21018,
+       "lightcone": "舞！舞！舞！",
+       "superimposition": 5
+      }
+     ],
+     "tag": "满星",
+     "ltd": 9,
+     "std": 0,
+     "date": "2026-10-22 17:21",
+     "cycle": "3"
     }
    ]
   },
@@ -9166,7 +9244,7 @@
    "season": "4.6",
    "stage": "亚婆离（绝境）",
    "category": "0轮次",
-   "total_runs": 238,
+   "total_runs": 239,
    "records": [
     {
      "group": "银狼LV.999",
@@ -9180,15 +9258,15 @@
        "superimposition": 5
       },
       {
-       "name": "真珠",
-       "eidolon": 2,
+       "name": "爻光",
+       "eidolon": 1,
        "lightcone_id": 21064,
        "lightcone": "菇菇嘎嘎历险记",
        "superimposition": 5
       },
       {
-       "name": "爻光",
-       "eidolon": 1,
+       "name": "真珠",
+       "eidolon": 2,
        "lightcone_id": 21064,
        "lightcone": "菇菇嘎嘎历险记",
        "superimposition": 5
@@ -9258,13 +9336,6 @@
        "superimposition": 1
       },
       {
-       "name": "真珠",
-       "eidolon": 2,
-       "lightcone_id": 21064,
-       "lightcone": "菇菇嘎嘎历险记",
-       "superimposition": 5
-      },
-      {
        "name": "爻光",
        "eidolon": 1,
        "lightcone_id": 21064,
@@ -9274,6 +9345,13 @@
       {
        "name": "开拓者 (欢愉)",
        "eidolon": 6,
+       "lightcone_id": 21064,
+       "lightcone": "菇菇嘎嘎历险记",
+       "superimposition": 5
+      },
+      {
+       "name": "真珠",
+       "eidolon": 2,
        "lightcone_id": 21064,
        "lightcone": "菇菇嘎嘎历险记",
        "superimposition": 5
@@ -9297,17 +9375,17 @@
        "superimposition": 1
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 2,
-       "lightcone_id": 23063,
-       "lightcone": "你将起身歌唱",
-       "superimposition": 1
-      },
-      {
        "name": "爻光",
        "eidolon": 1,
        "lightcone_id": 23054,
        "lightcone": "当她决定看见",
+       "superimposition": 1
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 2,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
        "superimposition": 1
       },
       {
@@ -9336,11 +9414,11 @@
        "superimposition": 1
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 6,
-       "lightcone_id": 23063,
-       "lightcone": "你将起身歌唱",
-       "superimposition": 1
+       "name": "瓦尔特",
+       "eidolon": 4,
+       "lightcone_id": 21061,
+       "lightcone": "假日浴场大冒险",
+       "superimposition": 5
       },
       {
        "name": "藿藿",
@@ -9350,11 +9428,11 @@
        "superimposition": 5
       },
       {
-       "name": "瓦尔特",
-       "eidolon": 4,
-       "lightcone_id": 21061,
-       "lightcone": "假日浴场大冒险",
-       "superimposition": 5
+       "name": "知更鸟•晴歌",
+       "eidolon": 6,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
+       "superimposition": 1
       }
      ],
      "tag": "0轮次",
@@ -9404,7 +9482,7 @@
     },
     {
      "group": "昔涟",
-     "runs_in_group": 6,
+     "runs_in_group": 7,
      "lineup": [
       {
        "name": "昔涟",
@@ -9531,6 +9609,13 @@
        "superimposition": 1
       },
       {
+       "name": "吉尔伽美什",
+       "eidolon": 1,
+       "lightcone_id": 23062,
+       "lightcone": "所见即我",
+       "superimposition": 1
+      },
+      {
        "name": "知更鸟•晴歌",
        "eidolon": 6,
        "lightcone_id": 23063,
@@ -9543,13 +9628,6 @@
        "lightcone_id": 20008,
        "lightcone": "嘉果",
        "superimposition": 5
-      },
-      {
-       "name": "吉尔伽美什",
-       "eidolon": 1,
-       "lightcone_id": 23062,
-       "lightcone": "所见即我",
-       "superimposition": 1
       }
      ],
      "tag": "0轮次",
@@ -9570,18 +9648,18 @@
        "superimposition": 5
       },
       {
-       "name": "昔涟",
-       "eidolon": 6,
-       "lightcone_id": 23052,
-       "lightcone": "爱如此刻永恒",
-       "superimposition": 2
-      },
-      {
        "name": "刻律德菈",
        "eidolon": 2,
        "lightcone_id": 23048,
        "lightcone": "金血铭刻的时代",
        "superimposition": 1
+      },
+      {
+       "name": "昔涟",
+       "eidolon": 6,
+       "lightcone_id": 23052,
+       "lightcone": "爱如此刻永恒",
+       "superimposition": 2
       },
       {
        "name": "知更鸟•晴歌",
@@ -9596,6 +9674,45 @@
      "std": 0,
      "date": "2026-09-29 03:08",
      "av": 297
+    },
+    {
+     "group": "知更鸟•晴歌",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 2,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
+       "superimposition": 1
+      },
+      {
+       "name": "长夜月",
+       "eidolon": 6,
+       "lightcone_id": 23049,
+       "lightcone": "致长夜的星光",
+       "superimposition": 1
+      },
+      {
+       "name": "昔涟",
+       "eidolon": 6,
+       "lightcone_id": 23052,
+       "lightcone": "爱如此刻永恒",
+       "superimposition": 1
+      },
+      {
+       "name": "风堇",
+       "eidolon": 6,
+       "lightcone_id": 23042,
+       "lightcone": "愿虹光永驻天空",
+       "superimposition": 2
+      }
+     ],
+     "tag": "0轮次",
+     "ltd": 29,
+     "std": 0,
+     "date": "2026-10-16 21:58",
+     "av": 239
     },
     {
      "group": "吉尔伽美什",
@@ -9830,45 +9947,6 @@
      "std": 0,
      "date": "2026-09-30 07:33",
      "av": 179
-    },
-    {
-     "group": "飞霄",
-     "runs_in_group": 1,
-     "lineup": [
-      {
-       "name": "飞霄",
-       "eidolon": 6,
-       "lightcone_id": 23056,
-       "lightcone": "一场谎言的终幕",
-       "superimposition": 5
-      },
-      {
-       "name": "千冶•刃",
-       "eidolon": 6,
-       "lightcone_id": 23059,
-       "lightcone": "灼尽炼狱的新骸",
-       "superimposition": 5
-      },
-      {
-       "name": "知更鸟•晴歌",
-       "eidolon": 6,
-       "lightcone_id": 23063,
-       "lightcone": "你将起身歌唱",
-       "superimposition": 5
-      },
-      {
-       "name": "风堇",
-       "eidolon": 6,
-       "lightcone_id": 23042,
-       "lightcone": "愿虹光永驻天空",
-       "superimposition": 5
-      }
-     ],
-     "tag": "0轮次",
-     "ltd": 48,
-     "std": 0,
-     "date": "2026-10-19 09:46",
-     "av": 215
     }
    ]
   },
@@ -9930,13 +10008,6 @@
        "superimposition": 1
       },
       {
-       "name": "真珠",
-       "eidolon": 2,
-       "lightcone_id": 23055,
-       "lightcone": "献给明日的色彩",
-       "superimposition": 1
-      },
-      {
        "name": "爻光",
        "eidolon": 1,
        "lightcone_id": 23054,
@@ -9949,6 +10020,13 @@
        "lightcone_id": 24006,
        "lightcone": "欢愉满溢祝福",
        "superimposition": 5
+      },
+      {
+       "name": "真珠",
+       "eidolon": 2,
+       "lightcone_id": 23055,
+       "lightcone": "献给明日的色彩",
+       "superimposition": 1
       }
      ],
      "tag": "通关",
@@ -10054,18 +10132,18 @@
        "superimposition": 5
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 2,
-       "lightcone_id": 23063,
-       "lightcone": "你将起身歌唱",
-       "superimposition": 1
-      },
-      {
        "name": "开拓者 (记忆)",
        "eidolon": 6,
        "lightcone_id": 22006,
        "lightcone": "飞向粉色的明天",
        "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 2,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
+       "superimposition": 1
       }
      ],
      "tag": "通关",
@@ -10203,17 +10281,17 @@
        "superimposition": 1
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 2,
-       "lightcone_id": 23063,
-       "lightcone": "你将起身歌唱",
-       "superimposition": 1
-      },
-      {
        "name": "爻光",
        "eidolon": 1,
        "lightcone_id": 23054,
        "lightcone": "当她决定看见",
+       "superimposition": 1
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 2,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
        "superimposition": 1
       },
       {
@@ -10249,17 +10327,17 @@
        "superimposition": 1
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 1,
-       "lightcone_id": 23063,
-       "lightcone": "你将起身歌唱",
-       "superimposition": 1
-      },
-      {
        "name": "风堇",
        "eidolon": 0,
        "lightcone_id": 23042,
        "lightcone": "愿虹光永驻天空",
+       "superimposition": 1
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 1,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
        "superimposition": 1
       }
      ],
@@ -10288,17 +10366,17 @@
        "superimposition": 1
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 2,
-       "lightcone_id": 24005,
-       "lightcone": "记忆永不落幕",
-       "superimposition": 5
-      },
-      {
        "name": "刻律德菈",
        "eidolon": 1,
        "lightcone_id": 21018,
        "lightcone": "舞！舞！舞！",
+       "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 2,
+       "lightcone_id": 24005,
+       "lightcone": "记忆永不落幕",
        "superimposition": 5
       }
      ],
@@ -10359,11 +10437,11 @@
        "superimposition": 5
       },
       {
-       "name": "风堇",
-       "eidolon": 6,
-       "lightcone_id": 23042,
-       "lightcone": "愿虹光永驻天空",
-       "superimposition": 1
+       "name": "知更鸟•晴歌",
+       "eidolon": 1,
+       "lightcone_id": 24005,
+       "lightcone": "记忆永不落幕",
+       "superimposition": 5
       },
       {
        "name": "千冶•刃",
@@ -10373,11 +10451,11 @@
        "superimposition": 1
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 1,
-       "lightcone_id": 24005,
-       "lightcone": "记忆永不落幕",
-       "superimposition": 5
+       "name": "风堇",
+       "eidolon": 6,
+       "lightcone_id": 23042,
+       "lightcone": "愿虹光永驻天空",
+       "superimposition": 1
       }
      ],
      "tag": "通关",
@@ -10437,17 +10515,17 @@
        "superimposition": 5
       },
       {
-       "name": "千冶•刃",
-       "eidolon": 6,
-       "lightcone_id": 23043,
-       "lightcone": "谎言在风中飘扬",
-       "superimposition": 1
-      },
-      {
        "name": "知更鸟•晴歌",
        "eidolon": 2,
        "lightcone_id": 23063,
        "lightcone": "你将起身歌唱",
+       "superimposition": 1
+      },
+      {
+       "name": "千冶•刃",
+       "eidolon": 6,
+       "lightcone_id": 23043,
+       "lightcone": "谎言在风中飘扬",
        "superimposition": 1
       },
       {
@@ -10476,18 +10554,18 @@
        "superimposition": 1
       },
       {
-       "name": "知更鸟•晴歌",
-       "eidolon": 6,
-       "lightcone_id": 23063,
-       "lightcone": "你将起身歌唱",
-       "superimposition": 5
-      },
-      {
        "name": "风堇",
        "eidolon": 2,
        "lightcone_id": 23042,
        "lightcone": "愿虹光永驻天空",
        "superimposition": 3
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 6,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
+       "superimposition": 5
       },
       {
        "name": "千冶•刃",
@@ -10561,18 +10639,18 @@
        "superimposition": 1
       },
       {
-       "name": "大丽花",
-       "eidolon": 6,
-       "lightcone_id": 23050,
-       "lightcone": "勿忘她的火焰",
-       "superimposition": 5
-      },
-      {
        "name": "风堇",
        "eidolon": 0,
        "lightcone_id": 23042,
        "lightcone": "愿虹光永驻天空",
        "superimposition": 1
+      },
+      {
+       "name": "大丽花",
+       "eidolon": 6,
+       "lightcone_id": 23050,
+       "lightcone": "勿忘她的火焰",
+       "superimposition": 5
       }
      ],
      "tag": "通关",
