@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-10-28 12:13 UTC+8",
+ "collected_at": "2026-10-30 12:06 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -3694,7 +3694,7 @@
    "season": "4.6",
    "stage": "帕姆王",
    "category": "满星",
-   "total_runs": 20,
+   "total_runs": 21,
    "records": [
     {
      "group": "黑天鹅",
@@ -3812,6 +3812,45 @@
      "std": 0,
      "date": "2026-10-20 01:11",
      "cycle": "2"
+    },
+    {
+     "group": "火花",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "火花",
+       "eidolon": 0,
+       "lightcone_id": 21066,
+       "lightcone": "放个短假",
+       "superimposition": 5
+      },
+      {
+       "name": "爻光",
+       "eidolon": 0,
+       "lightcone_id": 21064,
+       "lightcone": "菇菇嘎嘎历险记",
+       "superimposition": 5
+      },
+      {
+       "name": "开拓者 (欢愉)",
+       "eidolon": 6,
+       "lightcone_id": 24006,
+       "lightcone": "欢愉满溢祝福",
+       "superimposition": 5
+      },
+      {
+       "name": "真珠",
+       "eidolon": 0,
+       "lightcone_id": 21064,
+       "lightcone": "菇菇嘎嘎历险记",
+       "superimposition": 5
+      }
+     ],
+     "tag": "满星",
+     "ltd": 3,
+     "std": 0,
+     "date": "2026-10-24 22:31",
+     "cycle": "3"
     },
     {
      "group": "昔涟",
