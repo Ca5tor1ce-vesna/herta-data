@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-10-31 12:11 UTC+8",
+ "collected_at": "2026-11-01 12:11 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -8,7 +8,7 @@
    "season": "4.6",
    "stage": "始作画者，无量塔绘世",
    "category": "0轮次",
-   "total_runs": 148,
+   "total_runs": 150,
    "records": [
     {
      "group": "砂金•戏浪",
@@ -90,7 +90,7 @@
     },
     {
      "group": "不死途",
-     "runs_in_group": 10,
+     "runs_in_group": 11,
      "lineup": [
       {
        "name": "不死途",
@@ -986,6 +986,45 @@
      "cycle": "0"
     },
     {
+     "group": "卡芙卡",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "卡芙卡",
+       "eidolon": 6,
+       "lightcone_id": 22000,
+       "lightcone": "新手任务开始前",
+       "superimposition": 5
+      },
+      {
+       "name": "千冶•刃",
+       "eidolon": 0,
+       "lightcone_id": 23043,
+       "lightcone": "谎言在风中飘扬",
+       "superimposition": 1
+      },
+      {
+       "name": "黑天鹅",
+       "eidolon": 1,
+       "lightcone_id": 23029,
+       "lightcone": "那无数个春天",
+       "superimposition": 1
+      },
+      {
+       "name": "海瑟音",
+       "eidolon": 1,
+       "lightcone_id": 23047,
+       "lightcone": "海洋为何而歌",
+       "superimposition": 1
+      }
+     ],
+     "tag": "0轮次",
+     "ltd": 15,
+     "std": 0,
+     "date": "2026-10-18 13:21",
+     "cycle": "0"
+    },
+    {
      "group": "丹恒•饮月",
      "runs_in_group": 1,
      "lineup": [
@@ -1148,7 +1187,7 @@
    "season": "4.6",
    "stage": "火花大会@Official",
    "category": "0轮次",
-   "total_runs": 250,
+   "total_runs": 251,
    "records": [
     {
      "group": "砂金•戏浪",
@@ -1581,7 +1620,7 @@
     },
     {
      "group": "那刻夏",
-     "runs_in_group": 8,
+     "runs_in_group": 9,
      "lineup": [
       {
        "name": "那刻夏",
@@ -2476,7 +2515,7 @@
    "season": "4.6",
    "stage": "赞达尔",
    "category": "0轮次",
-   "total_runs": 222,
+   "total_runs": 223,
    "records": [
     {
      "group": "绯英",
@@ -3493,6 +3532,45 @@
      "cycle": "0"
     },
     {
+     "group": "克拉拉",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "克拉拉",
+       "eidolon": 6,
+       "lightcone_id": 23002,
+       "lightcone": "无可取代的东西",
+       "superimposition": 5
+      },
+      {
+       "name": "千冶•刃",
+       "eidolon": 2,
+       "lightcone_id": 22000,
+       "lightcone": "新手任务开始前",
+       "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 0,
+       "lightcone_id": 21054,
+       "lightcone": "故事的下一页",
+       "superimposition": 5
+      },
+      {
+       "name": "不死途",
+       "eidolon": 1,
+       "lightcone_id": 23056,
+       "lightcone": "一场谎言的终幕",
+       "superimposition": 1
+      }
+     ],
+     "tag": "0轮次",
+     "ltd": 7,
+     "std": 12,
+     "date": "2026-10-27 13:32",
+     "cycle": "0"
+    },
+    {
      "group": "阿格莱雅",
      "runs_in_group": 3,
      "lineup": [
@@ -4327,7 +4405,7 @@
    "season": "4.6",
    "stage": "至黑之剑，盗火行者",
    "category": "满星",
-   "total_runs": 18,
+   "total_runs": 19,
    "records": [
     {
      "group": "昔涟",
@@ -4756,6 +4834,45 @@
      "ltd": 9,
      "std": 0,
      "date": "2026-10-21 09:51",
+     "cycle": "3"
+    },
+    {
+     "group": "阿格莱雅",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "阿格莱雅",
+       "eidolon": 1,
+       "lightcone_id": 23036,
+       "lightcone": "将光阴织成黄金",
+       "superimposition": 1
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 1,
+       "lightcone_id": 24005,
+       "lightcone": "记忆永不落幕",
+       "superimposition": 5
+      },
+      {
+       "name": "昔涟",
+       "eidolon": 2,
+       "lightcone_id": 23052,
+       "lightcone": "爱如此刻永恒",
+       "superimposition": 1
+      },
+      {
+       "name": "丹恒•腾荒",
+       "eidolon": 1,
+       "lightcone_id": 21053,
+       "lightcone": "愿旅途永远坦然",
+       "superimposition": 1
+      }
+     ],
+     "tag": "满星",
+     "ltd": 11,
+     "std": 0,
+     "date": "2026-10-28 08:52",
      "cycle": "3"
     }
    ]
@@ -6393,11 +6510,11 @@
    "season": "4.6",
    "stage": "[K1] 帕姆王",
    "category": "通关",
-   "total_runs": 122,
+   "total_runs": 125,
    "records": [
     {
      "group": "银狼LV.999",
-     "runs_in_group": 33,
+     "runs_in_group": 34,
      "lineup": [
       {
        "name": "银狼LV.999",
@@ -6670,7 +6787,7 @@
     },
     {
      "group": "长夜月",
-     "runs_in_group": 5,
+     "runs_in_group": 7,
      "lineup": [
       {
        "name": "长夜月",
@@ -6680,18 +6797,11 @@
        "superimposition": 1
       },
       {
-       "name": "昔涟",
+       "name": "知更鸟•晴歌",
        "eidolon": 0,
-       "lightcone_id": 23042,
-       "lightcone": "愿虹光永驻天空",
-       "superimposition": 1
-      },
-      {
-       "name": "风堇",
-       "eidolon": 0,
-       "lightcone_id": 24005,
-       "lightcone": "记忆永不落幕",
-       "superimposition": 5
+       "lightcone_id": 21052,
+       "lightcone": "多流汗，少流泪",
+       "superimposition": 3
       },
       {
        "name": "开拓者 (记忆)",
@@ -6699,12 +6809,19 @@
        "lightcone_id": 22006,
        "lightcone": "飞向粉色的明天",
        "superimposition": 5
+      },
+      {
+       "name": "风堇",
+       "eidolon": 0,
+       "lightcone_id": 24005,
+       "lightcone": "记忆永不落幕",
+       "superimposition": 5
       }
      ],
      "tag": "通关",
-     "ltd": 7,
+     "ltd": 6,
      "std": 0,
-     "date": "2026-10-01 09:30",
+     "date": "2026-10-30 22:11",
      "cycle": "0"
     },
     {
@@ -7143,7 +7260,7 @@
    "season": "4.6",
    "stage": "[K2] 死龙",
    "category": "通关",
-   "total_runs": 130,
+   "total_runs": 131,
    "records": [
     {
      "group": "Archer",
@@ -7303,7 +7420,7 @@
     },
     {
      "group": "长夜月",
-     "runs_in_group": 10,
+     "runs_in_group": 11,
      "lineup": [
       {
        "name": "长夜月",
@@ -8088,7 +8205,7 @@
    "season": "4.6",
    "stage": "[K3] 示死祸源",
    "category": "通关",
-   "total_runs": 231,
+   "total_runs": 235,
    "records": [
     {
      "group": "姬子•启行",
@@ -8365,7 +8482,7 @@
     },
     {
      "group": "那刻夏",
-     "runs_in_group": 14,
+     "runs_in_group": 15,
      "lineup": [
       {
        "name": "那刻夏",
@@ -8716,7 +8833,7 @@
     },
     {
      "group": "白厄",
-     "runs_in_group": 19,
+     "runs_in_group": 20,
      "lineup": [
       {
        "name": "白厄",
@@ -8755,7 +8872,7 @@
     },
     {
      "group": "千冶•刃",
-     "runs_in_group": 2,
+     "runs_in_group": 3,
      "lineup": [
       {
        "name": "千冶•刃",
@@ -9222,6 +9339,45 @@
      "cycle": "0"
     },
     {
+     "group": "赛飞儿",
+     "runs_in_group": 3,
+     "lineup": [
+      {
+       "name": "赛飞儿",
+       "eidolon": 1,
+       "lightcone_id": 21015,
+       "lightcone": "决心如汗珠般闪耀",
+       "superimposition": 5
+      },
+      {
+       "name": "开拓者 (同谐)",
+       "eidolon": 6,
+       "lightcone_id": 21056,
+       "lightcone": "追逐风的时候",
+       "superimposition": 5
+      },
+      {
+       "name": "佩拉",
+       "eidolon": 6,
+       "lightcone_id": 21061,
+       "lightcone": "假日浴场大冒险",
+       "superimposition": 3
+      },
+      {
+       "name": "大丽花",
+       "eidolon": 2,
+       "lightcone_id": 23050,
+       "lightcone": "勿忘她的火焰",
+       "superimposition": 1
+      }
+     ],
+     "tag": "通关",
+     "ltd": 6,
+     "std": 0,
+     "date": "2026-10-30 19:32",
+     "cycle": "0"
+    },
+    {
      "group": "遐蝶",
      "runs_in_group": 1,
      "lineup": [
@@ -9258,45 +9414,6 @@
      "ltd": 7,
      "std": 0,
      "date": "2026-10-08 21:28",
-     "cycle": "0"
-    },
-    {
-     "group": "赛飞儿",
-     "runs_in_group": 2,
-     "lineup": [
-      {
-       "name": "赛飞儿",
-       "eidolon": 1,
-       "lightcone_id": 21015,
-       "lightcone": "决心如汗珠般闪耀",
-       "superimposition": 5
-      },
-      {
-       "name": "开拓者 (同谐)",
-       "eidolon": 6,
-       "lightcone_id": 21018,
-       "lightcone": "舞！舞！舞！",
-       "superimposition": 5
-      },
-      {
-       "name": "缇宝",
-       "eidolon": 1,
-       "lightcone_id": 21056,
-       "lightcone": "追逐风的时候",
-       "superimposition": 5
-      },
-      {
-       "name": "大丽花",
-       "eidolon": 2,
-       "lightcone_id": 21061,
-       "lightcone": "假日浴场大冒险",
-       "superimposition": 5
-      }
-     ],
-     "tag": "通关",
-     "ltd": 7,
-     "std": 0,
-     "date": "2026-10-14 13:19",
      "cycle": "0"
     },
     {
@@ -9540,7 +9657,7 @@
    "season": "4.6",
    "stage": "亚婆离",
    "category": "0轮次",
-   "total_runs": 412,
+   "total_runs": 413,
    "records": [
     {
      "group": "银狼LV.999",
@@ -10050,6 +10167,45 @@
      "av": 0
     },
     {
+     "group": "黄泉",
+     "runs_in_group": 7,
+     "lineup": [
+      {
+       "name": "黄泉",
+       "eidolon": 2,
+       "lightcone_id": 21044,
+       "lightcone": "无边曼舞",
+       "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 2,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
+       "superimposition": 1
+      },
+      {
+       "name": "千冶•刃",
+       "eidolon": 2,
+       "lightcone_id": 21015,
+       "lightcone": "决心如汗珠般闪耀",
+       "superimposition": 5
+      },
+      {
+       "name": "风堇",
+       "eidolon": 0,
+       "lightcone_id": 24005,
+       "lightcone": "记忆永不落幕",
+       "superimposition": 5
+      }
+     ],
+     "tag": "0轮次",
+     "ltd": 11,
+     "std": 0,
+     "date": "2026-10-29 23:46",
+     "av": 0
+    },
+    {
      "group": "风堇",
      "runs_in_group": 2,
      "lineup": [
@@ -10086,45 +10242,6 @@
      "ltd": 12,
      "std": 0,
      "date": "2026-10-03 17:46",
-     "av": 0
-    },
-    {
-     "group": "黄泉",
-     "runs_in_group": 6,
-     "lineup": [
-      {
-       "name": "黄泉",
-       "eidolon": 2,
-       "lightcone_id": 21044,
-       "lightcone": "无边曼舞",
-       "superimposition": 5
-      },
-      {
-       "name": "风堇",
-       "eidolon": 2,
-       "lightcone_id": 24005,
-       "lightcone": "记忆永不落幕",
-       "superimposition": 5
-      },
-      {
-       "name": "千冶•刃",
-       "eidolon": 2,
-       "lightcone_id": 21015,
-       "lightcone": "决心如汗珠般闪耀",
-       "superimposition": 5
-      },
-      {
-       "name": "知更鸟•晴歌",
-       "eidolon": 2,
-       "lightcone_id": 20021,
-       "lightcone": "焚影",
-       "superimposition": 5
-      }
-     ],
-     "tag": "0轮次",
-     "ltd": 12,
-     "std": 0,
-     "date": "2026-10-11 12:27",
      "av": 0
     },
     {
@@ -11313,7 +11430,7 @@
    "season": "4.6",
    "stage": "亚婆离（绝境）",
    "category": "通关",
-   "total_runs": 99,
+   "total_runs": 101,
    "records": [
     {
      "group": "银狼LV.999",
@@ -11395,7 +11512,7 @@
     },
     {
      "group": "砂金•戏浪",
-     "runs_in_group": 7,
+     "runs_in_group": 8,
      "lineup": [
       {
        "name": "砂金•戏浪",
@@ -12055,6 +12172,45 @@
      "std": 0,
      "date": "2026-10-02 15:40",
      "av": 492
+    },
+    {
+     "group": "万敌",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "万敌",
+       "eidolon": 6,
+       "lightcone_id": 23039,
+       "lightcone": "血火啊，燃烧前路",
+       "superimposition": 5
+      },
+      {
+       "name": "昔涟",
+       "eidolon": 6,
+       "lightcone_id": 23052,
+       "lightcone": "爱如此刻永恒",
+       "superimposition": 5
+      },
+      {
+       "name": "风堇",
+       "eidolon": 2,
+       "lightcone_id": 23042,
+       "lightcone": "愿虹光永驻天空",
+       "superimposition": 3
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 6,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
+       "superimposition": 5
+      }
+     ],
+     "tag": "通关",
+     "ltd": 42,
+     "std": 0,
+     "date": "2026-10-30 19:03",
+     "av": 424
     },
     {
      "group": "大黑塔",
