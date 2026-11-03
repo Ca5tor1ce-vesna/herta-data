@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-11-02 12:05 UTC+8",
+ "collected_at": "2026-11-03 12:04 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -9735,7 +9735,7 @@
    "season": "4.6",
    "stage": "亚婆离",
    "category": "0轮次",
-   "total_runs": 413,
+   "total_runs": 414,
    "records": [
     {
      "group": "银狼LV.999",
@@ -9973,7 +9973,7 @@
     },
     {
      "group": "不死途",
-     "runs_in_group": 2,
+     "runs_in_group": 3,
      "lineup": [
       {
        "name": "不死途",
