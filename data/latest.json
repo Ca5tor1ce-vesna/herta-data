@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-11-03 12:04 UTC+8",
+ "collected_at": "2026-11-04 12:05 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -8,7 +8,7 @@
    "season": "4.6",
    "stage": "始作画者，无量塔绘世",
    "category": "0轮次",
-   "total_runs": 150,
+   "total_runs": 151,
    "records": [
     {
      "group": "砂金•戏浪",
@@ -440,6 +440,45 @@
      "cycle": "0"
     },
     {
+     "group": "流萤",
+     "runs_in_group": 10,
+     "lineup": [
+      {
+       "name": "流萤",
+       "eidolon": 0,
+       "lightcone_id": 24000,
+       "lightcone": "记一位星神的陨落",
+       "superimposition": 5
+      },
+      {
+       "name": "开拓者 (同谐)",
+       "eidolon": 6,
+       "lightcone_id": 21056,
+       "lightcone": "追逐风的时候",
+       "superimposition": 5
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 0,
+       "lightcone_id": 24005,
+       "lightcone": "记忆永不落幕",
+       "superimposition": 5
+      },
+      {
+       "name": "大丽花",
+       "eidolon": 1,
+       "lightcone_id": 23050,
+       "lightcone": "勿忘她的火焰",
+       "superimposition": 1
+      }
+     ],
+     "tag": "0轮次",
+     "ltd": 5,
+     "std": 0,
+     "date": "2026-10-31 22:36",
+     "cycle": "0"
+    },
+    {
      "group": "长夜月",
      "runs_in_group": 5,
      "lineup": [
@@ -671,45 +710,6 @@
      "ltd": 7,
      "std": 0,
      "date": "2026-10-01 12:00",
-     "cycle": "0"
-    },
-    {
-     "group": "流萤",
-     "runs_in_group": 9,
-     "lineup": [
-      {
-       "name": "流萤",
-       "eidolon": 0,
-       "lightcone_id": 24000,
-       "lightcone": "记一位星神的陨落",
-       "superimposition": 5
-      },
-      {
-       "name": "开拓者 (同谐)",
-       "eidolon": 6,
-       "lightcone_id": 21018,
-       "lightcone": "舞！舞！舞！",
-       "superimposition": 5
-      },
-      {
-       "name": "大丽花",
-       "eidolon": 2,
-       "lightcone_id": 23050,
-       "lightcone": "勿忘她的火焰",
-       "superimposition": 1
-      },
-      {
-       "name": "缇宝",
-       "eidolon": 1,
-       "lightcone_id": 21056,
-       "lightcone": "追逐风的时候",
-       "superimposition": 5
-      }
-     ],
-     "tag": "0轮次",
-     "ltd": 7,
-     "std": 0,
-     "date": "2026-10-02 09:25",
      "cycle": "0"
     },
     {
@@ -7299,7 +7299,7 @@
    "season": "4.6",
    "stage": "[K2] 死龙",
    "category": "通关",
-   "total_runs": 131,
+   "total_runs": 132,
    "records": [
     {
      "group": "Archer",
@@ -7537,7 +7537,7 @@
     },
     {
      "group": "绯英",
-     "runs_in_group": 3,
+     "runs_in_group": 4,
      "lineup": [
       {
        "name": "绯英",
@@ -10758,7 +10758,7 @@
    "season": "4.6",
    "stage": "亚婆离（绝境）",
    "category": "0轮次",
-   "total_runs": 258,
+   "total_runs": 259,
    "records": [
     {
      "group": "银狼LV.999",
@@ -11191,7 +11191,7 @@
     },
     {
      "group": "白厄",
-     "runs_in_group": 16,
+     "runs_in_group": 17,
      "lineup": [
       {
        "name": "白厄",
