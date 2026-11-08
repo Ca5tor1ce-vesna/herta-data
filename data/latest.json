@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-11-07 12:03 UTC+8",
+ "collected_at": "2026-11-08 12:07 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -5946,7 +5946,7 @@
    "season": "4.6",
    "stage": "呼雷",
    "category": "0行动值",
-   "total_runs": 64,
+   "total_runs": 65,
    "records": [
     {
      "group": "希儿",
@@ -6028,7 +6028,7 @@
     },
     {
      "group": "白厄",
-     "runs_in_group": 21,
+     "runs_in_group": 22,
      "lineup": [
       {
        "name": "白厄",
@@ -6627,11 +6627,11 @@
    "season": "4.6",
    "stage": "[K1] 帕姆王",
    "category": "通关",
-   "total_runs": 129,
+   "total_runs": 130,
    "records": [
     {
      "group": "银狼LV.999",
-     "runs_in_group": 35,
+     "runs_in_group": 36,
      "lineup": [
       {
        "name": "银狼LV.999",
@@ -7377,11 +7377,11 @@
    "season": "4.6",
    "stage": "[K2] 死龙",
    "category": "通关",
-   "total_runs": 143,
+   "total_runs": 145,
    "records": [
     {
      "group": "Archer",
-     "runs_in_group": 20,
+     "runs_in_group": 21,
      "lineup": [
       {
        "name": "Archer",
@@ -7732,7 +7732,7 @@
     },
     {
      "group": "万敌",
-     "runs_in_group": 5,
+     "runs_in_group": 6,
      "lineup": [
       {
        "name": "万敌",
@@ -8400,7 +8400,7 @@
    "season": "4.6",
    "stage": "[K3] 示死祸源",
    "category": "通关",
-   "total_runs": 251,
+   "total_runs": 253,
    "records": [
     {
      "group": "姬子•启行",
@@ -9184,7 +9184,7 @@
     },
     {
      "group": "黄泉",
-     "runs_in_group": 15,
+     "runs_in_group": 17,
      "lineup": [
       {
        "name": "黄泉",
@@ -9930,11 +9930,11 @@
    "season": "4.6",
    "stage": "亚婆离",
    "category": "0轮次",
-   "total_runs": 427,
+   "total_runs": 429,
    "records": [
     {
      "group": "银狼LV.999",
-     "runs_in_group": 123,
+     "runs_in_group": 124,
      "lineup": [
       {
        "name": "银狼LV.999",
@@ -10246,7 +10246,7 @@
     },
     {
      "group": "白厄",
-     "runs_in_group": 19,
+     "runs_in_group": 20,
      "lineup": [
       {
        "name": "白厄",
