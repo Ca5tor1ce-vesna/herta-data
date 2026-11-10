@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-11-08 12:07 UTC+8",
+ "collected_at": "2026-11-10 12:28 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -6627,11 +6627,11 @@
    "season": "4.6",
    "stage": "[K1] 帕姆王",
    "category": "通关",
-   "total_runs": 130,
+   "total_runs": 131,
    "records": [
     {
      "group": "银狼LV.999",
-     "runs_in_group": 36,
+     "runs_in_group": 37,
      "lineup": [
       {
        "name": "银狼LV.999",
@@ -7377,7 +7377,7 @@
    "season": "4.6",
    "stage": "[K2] 死龙",
    "category": "通关",
-   "total_runs": 145,
+   "total_runs": 146,
    "records": [
     {
      "group": "Archer",
@@ -7576,7 +7576,7 @@
     },
     {
      "group": "遐蝶",
-     "runs_in_group": 36,
+     "runs_in_group": 37,
      "lineup": [
       {
        "name": "遐蝶",
@@ -8400,7 +8400,7 @@
    "season": "4.6",
    "stage": "[K3] 示死祸源",
    "category": "通关",
-   "total_runs": 253,
+   "total_runs": 254,
    "records": [
     {
      "group": "姬子•启行",
@@ -9145,7 +9145,7 @@
     },
     {
      "group": "海瑟音",
-     "runs_in_group": 14,
+     "runs_in_group": 15,
      "lineup": [
       {
        "name": "海瑟音",
