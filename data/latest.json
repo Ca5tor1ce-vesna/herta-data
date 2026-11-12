@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-11-11 12:30 UTC+8",
+ "collected_at": "2026-11-12 12:29 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -6666,7 +6666,7 @@
    "season": "4.6",
    "stage": "[K1] 帕姆王",
    "category": "通关",
-   "total_runs": 134,
+   "total_runs": 135,
    "records": [
     {
      "group": "银狼LV.999",
@@ -7060,7 +7060,7 @@
     },
     {
      "group": "遐蝶",
-     "runs_in_group": 1,
+     "runs_in_group": 2,
      "lineup": [
       {
        "name": "遐蝶",
@@ -7416,7 +7416,7 @@
    "season": "4.6",
    "stage": "[K2] 死龙",
    "category": "通关",
-   "total_runs": 151,
+   "total_runs": 152,
    "records": [
     {
      "group": "Archer",
@@ -7459,7 +7459,7 @@
     },
     {
      "group": "砂金•戏浪",
-     "runs_in_group": 14,
+     "runs_in_group": 15,
      "lineup": [
       {
        "name": "砂金•戏浪",
