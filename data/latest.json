@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-11-12 12:29 UTC+8",
+ "collected_at": "2026-11-13 12:24 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -3889,7 +3889,7 @@
    "season": "4.6",
    "stage": "帕姆王",
    "category": "满星",
-   "total_runs": 25,
+   "total_runs": 26,
    "records": [
     {
      "group": "黑天鹅",
@@ -3932,7 +3932,7 @@
     },
     {
      "group": "银狼LV.999",
-     "runs_in_group": 7,
+     "runs_in_group": 8,
      "lineup": [
       {
        "name": "银狼LV.999",
@@ -6666,7 +6666,7 @@
    "season": "4.6",
    "stage": "[K1] 帕姆王",
    "category": "通关",
-   "total_runs": 135,
+   "total_runs": 136,
    "records": [
     {
      "group": "银狼LV.999",
@@ -7021,7 +7021,7 @@
     },
     {
      "group": "流萤",
-     "runs_in_group": 8,
+     "runs_in_group": 9,
      "lineup": [
       {
        "name": "流萤",
@@ -7416,7 +7416,7 @@
    "season": "4.6",
    "stage": "[K2] 死龙",
    "category": "通关",
-   "total_runs": 152,
+   "total_runs": 153,
    "records": [
     {
      "group": "Archer",
@@ -7927,7 +7927,7 @@
     },
     {
      "group": "流萤",
-     "runs_in_group": 2,
+     "runs_in_group": 3,
      "lineup": [
       {
        "name": "流萤",
@@ -8478,7 +8478,7 @@
    "season": "4.6",
    "stage": "[K3] 示死祸源",
    "category": "通关",
-   "total_runs": 259,
+   "total_runs": 262,
    "records": [
     {
      "group": "姬子•启行",
@@ -9067,7 +9067,7 @@
     },
     {
      "group": "流萤",
-     "runs_in_group": 15,
+     "runs_in_group": 17,
      "lineup": [
       {
        "name": "流萤",
@@ -9223,7 +9223,7 @@
     },
     {
      "group": "海瑟音",
-     "runs_in_group": 15,
+     "runs_in_group": 16,
      "lineup": [
       {
        "name": "海瑟音",
