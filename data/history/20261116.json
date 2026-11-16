@@ -1,6 +1,6 @@
 {
  "source": "https://theherta.com/archive",
- "collected_at": "2026-11-16 12:28 UTC+8",
+ "collected_at": "2026-11-16 13:52 UTC+8",
  "selection_rule": "每个阵容组取限定五星最少的一条（同数取常驻更少、再取更早）",
  "targets": [
   {
@@ -5320,24 +5320,182 @@
    "season": "4.7",
    "stage": "帕姆王",
    "category": "0行动值",
-   "total_runs": 0,
-   "records": []
+   "total_runs": 1,
+   "records": [
+    {
+     "group": "绯英",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "绯英",
+       "eidolon": 2,
+       "lightcone_id": 23058,
+       "lightcone": "邂逅于下一个花季",
+       "superimposition": 1
+      },
+      {
+       "name": "知更鸟•晴歌",
+       "eidolon": 6,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
+       "superimposition": 5
+      },
+      {
+       "name": "爻光",
+       "eidolon": 1,
+       "lightcone_id": 21064,
+       "lightcone": "菇菇嘎嘎历险记",
+       "superimposition": 5
+      },
+      {
+       "name": "星神★阿哈",
+       "eidolon": 1,
+       "lightcone_id": 21064,
+       "lightcone": "菇菇嘎嘎历险记",
+       "superimposition": 5
+      }
+     ],
+     "tag": "0行动值",
+     "ltd": 20,
+     "std": 0,
+     "date": "2026-11-16 05:35",
+     "score": 4000
+    }
+   ]
   },
   {
    "mode": "末日幻影",
    "season": "4.7",
    "stage": "枯茎朽骨的引路人",
    "category": "0行动值",
-   "total_runs": 0,
-   "records": []
+   "total_runs": 1,
+   "records": [
+    {
+     "group": "昔涟",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "昔涟",
+       "eidolon": 6,
+       "lightcone_id": 23052,
+       "lightcone": "爱如此刻永恒",
+       "superimposition": 5
+      },
+      {
+       "name": "长夜月",
+       "eidolon": 4,
+       "lightcone_id": 23049,
+       "lightcone": "致长夜的星光",
+       "superimposition": 1
+      },
+      {
+       "name": "赛飞儿",
+       "eidolon": 2,
+       "lightcone_id": 23043,
+       "lightcone": "谎言在风中飘扬",
+       "superimposition": 1
+      },
+      {
+       "name": "遐蝶",
+       "eidolon": 2,
+       "lightcone_id": 23040,
+       "lightcone": "让告别，更美一些",
+       "superimposition": 1
+      }
+     ],
+     "tag": "0行动值",
+     "ltd": 26,
+     "std": 0,
+     "date": "2026-11-16 05:35",
+     "score": 4000
+    }
+   ]
   },
   {
    "mode": "末日幻影",
    "season": "4.7",
    "stage": "银枝",
    "category": "0行动值",
-   "total_runs": 1,
+   "total_runs": 3,
    "records": [
+    {
+     "group": "那刻夏",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "那刻夏",
+       "eidolon": 2,
+       "lightcone_id": 22004,
+       "lightcone": "宇宙大生意",
+       "superimposition": 5
+      },
+      {
+       "name": "昔涟",
+       "eidolon": 2,
+       "lightcone_id": 21050,
+       "lightcone": "胜利只在朝夕间",
+       "superimposition": 5
+      },
+      {
+       "name": "长夜月",
+       "eidolon": 2,
+       "lightcone_id": 24005,
+       "lightcone": "记忆永不落幕",
+       "superimposition": 5
+      },
+      {
+       "name": "刻律德菈",
+       "eidolon": 0,
+       "lightcone_id": 21011,
+       "lightcone": "与行星相会",
+       "superimposition": 5
+      }
+     ],
+     "tag": "0行动值",
+     "ltd": 10,
+     "std": 0,
+     "date": "2026-11-16 10:52",
+     "score": 4000
+    },
+    {
+     "group": "姬子•启行",
+     "runs_in_group": 1,
+     "lineup": [
+      {
+       "name": "姬子•启行",
+       "eidolon": 6,
+       "lightcone_id": 23060,
+       "lightcone": "当一颗星照亮夜空",
+       "superimposition": 5
+      },
+      {
+       "name": "开拓者 (记忆)",
+       "eidolon": 6,
+       "lightcone_id": 23063,
+       "lightcone": "你将起身歌唱",
+       "superimposition": 1
+      },
+      {
+       "name": "知更鸟",
+       "eidolon": 4,
+       "lightcone_id": 23019,
+       "lightcone": "镜中故我",
+       "superimposition": 1
+      },
+      {
+       "name": "停云",
+       "eidolon": 6,
+       "lightcone_id": 23038,
+       "lightcone": "如果时间是一朵花",
+       "superimposition": 1
+      }
+     ],
+     "tag": "0行动值",
+     "ltd": 20,
+     "std": 0,
+     "date": "2026-11-16 05:35",
+     "score": 4000
+    },
     {
      "group": "波提欧",
      "runs_in_group": 1,
